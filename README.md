@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @williamhuang3
-- 👀 I’m interested in data science, bioinformatics, machine learning, stochastic processes, and multi-omics approaches!
-- 🌱 I’m currently studying computational biology at UCLA!
-- 💞️ I’m looking to collaborate on data science/computer science REST projects!
+- 👀 I’m interested in data science, bioinformatics, and developing tools/pipelines.
+- 🌱 I’m currently studying computational biology at UCLA.
+- 💞️ I’m looking to collaborate on data science and software projects (not limited to bioinformatics)!
 - 📫 How to reach me: https://www.linkedin.com/in/whuang03
 
 <!---
