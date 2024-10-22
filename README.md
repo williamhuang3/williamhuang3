@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @williamhuang3
-- 👀 I’m interested in data science, bioinformatics, and developing tools/pipelines.
+- 👀 I’m interested in software engineering, data science, bioinformatics, and developing tools/pipelines.
 - 🌱 I’m currently studying computational biology at UCLA.
 - 💞️ I’m looking to collaborate on data science/software engineering projects! (not limited to bioinformatics)!
 - 📫 How to reach me: https://www.linkedin.com/in/whuang03
